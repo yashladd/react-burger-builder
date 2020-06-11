@@ -9,9 +9,7 @@ class Modal extends Component {
       nextProps.children !== this.props.children
     );
   }
-  componentDidUpdate() {
-    console.log('Comp did Update MODAL');
-  }
+  componentDidUpdate() {}
   render() {
     return (
       <Fragment>

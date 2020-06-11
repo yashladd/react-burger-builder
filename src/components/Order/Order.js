@@ -9,7 +9,6 @@ const Order = props => {
       amount: props.ingredients[ingredient],
     });
   }
-  console.log(ingredients);
   const ingOutput = ingredients.map(ing => {
     return (
       <span
