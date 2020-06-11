@@ -25,15 +25,16 @@
     display: flex;
     height: 100%;
     width: auto;
-    align-items: center;
-    text-align: center;
   }
 
   .NavigationItem a {
     color: white;
     height: 100%;
+    display: flex;
     padding: 16px, 10px;
     border-bottom: 4px solid transparent;
+    align-items: center;
+    text-align: center;
   }
 
   .NavigationItem a:hover,
