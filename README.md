@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Use the application on firebase
+https://react-my-burger-f92ea.web.app/
 
 ## Available Scripts
 
